@@ -1,59 +1,48 @@
 [
 
    {
-    "appIcon": "https://www.dropbox.com/s/myw0upk4va2f2w3/popcorn_time.png?dl=1",
+    "appIcon": "https://images2.imgbox.com/d4/07/kJx9GjSn_o.png",
     "appName": "Popcorn Time",
     "appDescription": "Download & stream best movies and tv series for free",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C102587339?locale=en_GB&source=appshare&subsource=C102587339"
   },
   
   {
-    "appIcon": "https://www.dropbox.com/s/ja9sjag4gfj2wif/mp3_juice.png?dl=1",
-    "appName": "Mp3 Juice : Mp3 Music Downloader",
-    "appDescription": "Free Mp3 Music Downloader",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C102650599?locale=en_GB&source=appshare&subsource=C102650599"
-  },
-  
-  {
-    "appIcon": "https://www.dropbox.com/s/8daegf80bysfqfu/duplicate_file_remover.png?dl=1",
+    "appIcon": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png",
     "appName": "Duplicate Files Remover",
     "appDescription": "Optimize your game play experience.",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C102188107?locale=en_GB&source=appshare&subsource=C102188107"
   },
-  
-   {
-    "appIcon": "https://www.dropbox.com/s/r4q9lgj44xcmheu/call-recorder-pro.png?dl=1",
-    "appName": "Call Recorder Pro",
-    "appDescription": "Automatic phone calls recorder app",
+   
+     {
+    "appIcon": "https://images2.imgbox.com/a4/33/4sycQxp6_o.png",
+    "appName": "PDF Reader App",
+    "appDescription": "Lightweight Pdf files reader for phones & tablets",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C102250619?locale=en_GB&source=appshare&subsource=C102250619"
   },
 
+
   {
-    "appIcon": "https://www.dropbox.com/s/qjaiutyve34rkt5/newIcon.png?dl=1",
+    "appIcon": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png",
     "appName": "Whatsapp Installer & Updater",
     "appDescription": "Whatsapp Installer & Updater for android phones",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101529045?locale=en_GB&source=appshare&subsource=C101529045"
   },
 
   {
-    "appIcon": "https://www.dropbox.com/s/jkrrjwc3llurzfo/icon_round.png?dl=1",
+    "appIcon": "https://images2.imgbox.com/4a/0e/Y5fvfope_o.png",
     "appName": "Pubg Gfx & Installer Tool",
     "appDescription": "Easy Pubg downloader, Optimizer & Updater app",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101757193?locale=en_GB&source=appshare&subsource=C101757193"
   },
+   
   {
-    "appIcon": "https://www.dropbox.com/s/ex0y3e560bxcqke/all-video-downloader.png?dl=1",
+    "appIcon": "https://images2.imgbox.com/73/3f/HtlrrpAm_o.png",
     "appName": "All Video Downloader",
     "appDescription": "Get the video you want NOW!",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C102229569?locale=en_GB&source=appshare&subsource=C102229569"
   },
 
-  {
-    "appIcon": "https://www.dropbox.com/s/uja23slheeohj1n/anime_icon.png?dl=1",
-    "appName": "Anime Planet",
-    "appDescription": "Enjoy the largest free anime series & movies selection",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101928939?locale=en_GB&source=appshare&subsource=C101928939"
-  },
   {
     "appIcon": "https://www.dropbox.com/s/o38n2bn4sduwlla/facebook.png?dl=1",
     "appName": "Facebook Video Downloader",
@@ -61,22 +50,17 @@
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101544659?locale=en_GB&source=appshare&subsource=C101544659"
   },
   {
-    "appIcon": "https://www.dropbox.com/s/jmvq5n08amb6100/tubemate.png?dl=1",
+    "appIcon": "https://images2.imgbox.com/71/3a/Zhit8ccr_o.png",
     "appName": "TubeMate",
     "appDescription": "Download your favorite videos from Youtube",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101162549?locale=en_GB&source=appshare&subsource=C101162549"
   },
+
   {
-    "appIcon": "https://www.dropbox.com/s/li8knagrmqu2v2o/instaInstaller.png?dl=1",
-    "appName": "Instagram Installer",
-    "appDescription": "Great solution to install Instagram app",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101510709?locale=en_GB&source=appshare&subsource=C101510709"
-  },
-  {
-    "appIcon": "https://www.dropbox.com/s/gqzpmz2hc0f8721/youInstaller.png?dl=1",
-    "appName": "Youtube Installer & Updater",
-    "appDescription": "Install & Update Youtube app in one click!",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101607793?locale=en_GB&source=appshare&subsource=C101607793"
+    "appIcon": "https://images2.imgbox.com/de/1f/3MsmGngM_o.png",
+    "appName": "Hide Me : No Last Seen Marks",
+    "appDescription": "Hide last seeen blue marks",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C102973415?locale=en_GB&source=appshare&subsource=C102973415"
   }
 
 ]
