@@ -1,0 +1,24 @@
+{
+    "update": {
+        "deprecatedVersionCode": 1,
+        "versionCode": 6,
+        "url": "https://www.dropbox.com/s/jaabnra6v38i3xi/Moviesy_v1.5.apk?dl=1"
+    },
+    "yts": {
+        "base": "https://yts.mx",
+        "yify": "https://yts-subs.com"
+    },
+    "tmdb": {
+        "base": "https://api.themoviedb.org/3/",
+        "image": "https://image.tmdb.org/t/p/w500",
+        "apiKey": "b21f77a39180140143a35e5df5cb6cd6"
+    },
+    "misc": {
+        "suggestionApi": "https://suggestqueries.google.com/complete/search?ds=yt&client=firefox&q="
+    },
+    "message": {
+        "Splash-onStart": "",
+        "Search-onStart": "",
+        "Final-onStart": ""
+    }
+}
