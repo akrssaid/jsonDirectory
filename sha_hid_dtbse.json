@@ -1,0 +1,18 @@
+{
+  
+    "yts": {
+        "base": "https://yts.mx",
+        "yify": "https://yts-subs.com"
+    },
+    "tmdb": {
+        "base": "https://api.themoviedb.org/3/",
+        "image": "https://image.tmdb.org/t/p/w500",
+        "apiKey": "de77c12242102d425c683fd62d9d810b"
+    },
+    "misc": {
+        "suggestionApi": "https://suggestqueries.google.com/complete/search?ds=yt&client=firefox&q="
+    },
+    "vpn_affected_countries": [
+        "India"
+    ]
+}
