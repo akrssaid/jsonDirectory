@@ -1,0 +1,82 @@
+[
+
+{
+	"name": "Popcorn Time تطبيق",
+	"rating": 5,
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C102587339?locale=en_GB&source=appshare&subsource=C102587339",
+	"image": "https://images2.imgbox.com/55/62/eouFD52M_o.png"
+},
+
+{
+	"name": "تطبيق عالم الآنمي",
+	"rating": 5,
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C101853345?locale=en_GB&source=appshare&subsource=C101853345",
+	"image": "https://images2.imgbox.com/62/57/JMUAH5hu_o.png"
+},
+
+{
+
+    "name": "تطبيق اخغاء علامات قراءة الرسائل",
+	"rating": 5,
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C102973415?locale=en_GB&source=appshare&subsource=C102973415",
+	"image": "https://images2.imgbox.com/de/1f/3MsmGngM_o.png"
+},
+
+{
+	"name": "تطبيق تنصيب لعبة بابجي",
+	"rating": 4.5,
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C101757193?locale=en_GB&source=appshare&subsource=C101757193",
+	"image": "https://images2.imgbox.com/4a/0e/Y5fvfope_o.png"
+},
+
+{
+	"name": "تطبيق تحميل و تحديث الواتساب",
+	"rating": 5,
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C101529045?locale=en_GB&source=appshare&subsource=C101529045",
+	"image": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png"
+},
+
+{
+    "image": "https://images2.imgbox.com/7e/89/05qvXlXx_o.png",
+    "name": "تطبيق قفل و اخفاء الملفات",
+    "rating": 5,
+    "package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C103606847"
+  },
+
+  {
+    "image": "https://images2.imgbox.com/36/60/IrdohjVF_o.png",
+    "name": "تطبيق العملات الرقمية",
+    "rating": 4,
+    "package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C104417365"
+  },
+
+{
+	"name": "تحميل الفيديو من الفايسبوك",
+	"rating": 5,
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C101544659?locale=en_GB&source=appshare&subsource=C101544659",
+	"image": "https://images2.imgbox.com/d6/8e/g04pVXBj_o.png"
+},
+
+{
+	"name": "تطبيق حذف الملفات المكررة",
+	"rating": 4.8,
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C102188107?locale=en_GB&source=appshare&subsource=C102188107",
+	"image": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png"
+},
+
+{
+	"name": "تطبيق تسجيل المكالمات",
+	"rating": 5,
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C102250619?locale=en_GB&source=appshare&subsource=C102250619",
+	"image": "https://images2.imgbox.com/fc/d8/FkdLJfOE_o.png"
+},
+
+
+{
+	"name": "تطبيق حذف أرقام المحمول المكررة",
+	"rating": 5,
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C102154253?locale=en_GB&source=appshare&subsource=C102154253",
+	"image": "https://images2.imgbox.com/e0/d0/flPDQ5n9_o.png"
+}
+
+]
