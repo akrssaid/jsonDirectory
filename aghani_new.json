@@ -3,8 +3,15 @@
 {
 	"name": "Popcorn Time تطبيق",
 	"rating": 5,
-	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C102587339?locale=en_GB&source=appshare&subsource=C102587339",
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C102587339?locale=en_GB&source=appshare&subsource=C102116265",
 	"image": "https://images2.imgbox.com/55/62/eouFD52M_o.png"
+},
+
+	{
+	"name": "تطبيق تحميل افلام, مسلسلات و آنمي",
+	"rating": 5,
+	"package_name": "https://appgallery.cloud.huawei.com/marketshare/app/C102587339?locale=en_GB&source=appshare&subsource=C102587339",
+	"image": "https://images2.imgbox.com/be/27/U96zFlSz_o.png"
 },
 
 {
