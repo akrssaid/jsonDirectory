@@ -1,5 +1,11 @@
 [
 
+  {
+    "appIcon": "https://images2.imgbox.com/42/d4/PAsibRst_o.png",
+    "appName": "VidMate",
+    "appDescription": "تطبيق تحميل الفيديو من اليوتيوب",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C103696013"
+  },
   
    {
     "appIcon": "https://images2.imgbox.com/36/60/IrdohjVF_o.png",
@@ -8,8 +14,7 @@
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C104417365"
   },
   
-  
-  
+ 
   {
     "appIcon": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png",
     "appName": "تطبيق تحميل و تحديث الواتساب",
@@ -62,12 +67,6 @@
     "appName": "تطبيق قفل و اخفاء الملفات",
     "appDescription": "حافظ على خصوصيتك مع هذا التطبيق المجاني",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C103606847"
-  },
-  {
-    "appIcon": "https://images2.imgbox.com/71/3a/Zhit8ccr_o.png",
-    "appName": "تحميل الفيديو من اليوتيوب",
-    "appDescription": "تطبيق تحميل الفيديو من اليوتيوب",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101162549"
   }
 
 ]
