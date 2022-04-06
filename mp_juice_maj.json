@@ -1,0 +1,12 @@
+{
+  "flavors": {
+     "github": {
+      "stable": {
+        "apk": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.22.1/NewPipe_v0.22.1.apk",
+        "version": "\n  v0.22.1\n  \n",
+        "version_code": 985
+      }
+    }
+    }
+ 
+}
