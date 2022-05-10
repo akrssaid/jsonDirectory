@@ -36,24 +36,10 @@
 },
 
 {
-	"name": "Whats Cleaner Pro",
-	"rating": "Clean your WhatsApp junk files",
-	"package_name": "samsungapps://ProductDetail/com.handyToolsApps.whatsapp.cleaner",
-	"image": "https://images2.imgbox.com/e0/c0/m6SXKJhn_o.png"
-},
-
-{
 	"name": "Smart Apk Extractor",
 	"rating": "Extract apk file from app in one click!",
 	"package_name": "samsungapps://ProductDetail/net.handytoolsapps.apkextractorapp",
 	"image": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png"
-},
-
-{
-	"name": "Whats Tools Pro",
-	"rating": "All in one tools for WhatsApp",
-	"package_name": "samsungapps://ProductDetail/com.handyToolsApps.whatsappTools",
-	"image": "https://images2.imgbox.com/3e/33/BZ4H7h59_o.png"
 },
 
 {
