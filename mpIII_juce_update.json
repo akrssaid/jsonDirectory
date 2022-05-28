@@ -1,12 +1,10 @@
 {
-  "flavors": {
-   
-    "github": {
-      "stable": {
-        "apk": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.23.0/NewPipe_v0.23.0.apk",
-        "version": "v0.23.0",
-        "version_code": 986
-      }
-    }
-  }
+  "latestVersion": "1.2",
+  "latestVersionCode": "973",
+  "url": "https://github.com/TutorialsAndroid/AppXUpdater/releases",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
 }
