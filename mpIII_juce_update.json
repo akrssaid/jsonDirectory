@@ -1,4 +1,9 @@
 {
-  "booleanUpdate":false,
-  "apk": "https://www.dropbox.com/s/3pqrmm0k1s88s7c/app-release.apk?dl=1"
+ "github": {
+      "stable": {
+        "apk": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.23.0/NewPipe_v0.23.0.apk",
+        "version": "v1.3",
+        "version_code": 986
+      }
+    }
 }
