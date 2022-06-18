@@ -1,0 +1,67 @@
+[
+
+{
+	"name": "Duplicate Contacts Remover",
+	"rating": "Remove duplicate contacts in one click!",
+	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.duplicatecontactsremover",
+	"image": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png"
+},
+
+{
+	"name": "Sketch It : Pencil Sketch",
+	"rating": "Convert your photos to amazing pencil sketches Now",
+	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.pencilSketch.photoToPencilSketch",
+	"image": "https://images2.imgbox.com/c1/9a/QOSPR6Rb_o.png"
+},
+
+{
+	"name": "Face Old App : Make Me Old",
+	"rating": "See how you will look like when you get old!",
+	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.faceagephotoeditor",
+	"image": "https://images2.imgbox.com/cb/7a/69CzcQBk_o.png"
+},
+
+{
+	"name": "Flashlight & Compass",
+	"rating": "All in one Flashlight & Compass app",
+	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.smartflashlightcompass",
+	"image": "https://images2.imgbox.com/ee/b4/fdXI9Ez7_o.png"
+},
+
+{
+	"name": "Units Converter Pro",
+	"rating": "Universal unit converter app",
+	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.onlineconverter.unitsconverter",
+	"image": "https://images2.imgbox.com/43/1d/PmTu4ANZ_o.png"
+},
+
+{
+	"name": "Smart Apk Extractor",
+	"rating": "Extract apk file from app in one click!",
+	"package_name": "samsungapps://ProductDetail/net.handytoolsapps.apkextractorapp",
+	"image": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png"
+},
+
+{
+	"name": "Abs Workout",
+	"rating": "Get shredded abs with this free app Now",
+	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.absworkoutbodybuilding",
+	"image": "https://images2.imgbox.com/e4/05/ydL24Hex_o.png"
+},
+
+{
+
+    "name": "Torrent Pro",
+	"rating": "Free powerful torrent client app",
+	"package_name": "samsungapps://ProductDetail/net.handytoolsapps.torrent",
+	"image": "https://images2.imgbox.com/fa/dc/cJXvp9Gi_o.png"
+},
+
+{
+	"name": "SMS Scheduler",
+	"rating": "Easy to use SMS Scheduler app",
+	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.smsappschedulermessenger",
+	"image": "https://images2.imgbox.com/f7/ec/qbI43E1U_o.png"
+}
+
+]
