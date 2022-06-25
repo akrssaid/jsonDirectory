@@ -36,13 +36,6 @@
 },
 
 {
-	"appName": "Whats Cleaner Pro",
-	"appDescription": "Clean your WhatsApp junk files",
-	"url": "samsungapps://ProductDetail/com.handyToolsApps.whatsapp.cleaner",
-	"appIcon": "https://images2.imgbox.com/e0/c0/m6SXKJhn_o.png"
-},
-
-{
 	"appName": "Smart Apk Extractor",
 	"appDescription": "Extract apk file from app in one click!",
 	"url": "samsungapps://ProductDetail/net.handytoolsapps.apkextractorapp",
@@ -50,25 +43,10 @@
 },
 
 {
-	"appName": "Whats Tools Pro",
-	"appDescription": "All in one tools for WhatsApp",
-	"url": "samsungapps://ProductDetail/com.handyToolsApps.whatsappTools",
-	"appIcon": "https://images2.imgbox.com/3e/33/BZ4H7h59_o.png"
-},
-
-{
 	"appName": "Abs Workout",
 	"appDescription": "Get shredded abs with this free app Now",
 	"url": "samsungapps://ProductDetail/com.handytoolsapps.absworkoutbodybuilding",
 	"appIcon": "https://images2.imgbox.com/e4/05/ydL24Hex_o.png"
-},
-
-{
-
-    "appName": "Torrent Pro",
-	"appDescription": "Free powerful torrent client app",
-	"url": "samsungapps://ProductDetail/net.handytoolsapps.torrent",
-	"appIcon": "https://images2.imgbox.com/fa/dc/cJXvp9Gi_o.png"
 },
 
 {
