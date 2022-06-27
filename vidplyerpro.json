@@ -1,19 +1,5 @@
 [
 	
-	   {
-    "appIcon": "https://images2.imgbox.com/86/87/3wjwBmTV_o.png",
-    "appName": "Radio",
-    "appDescription": "Enjoy listening to your favorite radio stations",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C106094763"
-  },
-  
-  {
-    "appIcon": "https://images2.imgbox.com/d6/8e/g04pVXBj_o.png",
-    "appName": "Facebook Video Downloader 2022",
-    "appDescription": "Download videos from Facebook with one click!",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101544659"
-  },
-
 {
 	"appName": "Duplicate Contacts Remover",
 	"appDescription": "Remove duplicate contacts in one click!",
@@ -50,24 +36,10 @@
 },
 
 {
-	"appName": "Whats Cleaner Pro",
-	"appDescription": "Clean your WhatsApp junk files",
-	"url": "samsungapps://ProductDetail/com.handyToolsApps.whatsapp.cleaner",
-	"appIcon": "https://images2.imgbox.com/e0/c0/m6SXKJhn_o.png"
-},
-
-{
 	"appName": "Smart Apk Extractor",
 	"appDescription": "Extract apk file from app in one click!",
 	"url": "samsungapps://ProductDetail/net.handytoolsapps.apkextractorapp",
 	"appIcon": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png"
-},
-
-{
-	"appName": "Whats Tools Pro",
-	"appDescription": "All in one tools for WhatsApp",
-	"url": "samsungapps://ProductDetail/com.handyToolsApps.whatsappTools",
-	"appIcon": "https://images2.imgbox.com/3e/33/BZ4H7h59_o.png"
 },
 
 {
