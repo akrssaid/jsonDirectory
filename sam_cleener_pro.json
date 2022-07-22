@@ -1,0 +1,60 @@
+[
+
+{
+	"appName": "Sketch It : Pencil Sketch",
+	"appDescription": "Convert your photos to amazing pencil sketches Now",
+	"url": "samsungapps://ProductDetail/com.handytoolsapps.pencilSketch.photoToPencilSketch",
+	"appIcon": "https://images2.imgbox.com/c1/9a/QOSPR6Rb_o.png"
+},
+
+{
+	"appName": "Face Old App : Make Me Old",
+	"appDescription": "See how you will look like when you get old!",
+	"url": "samsungapps://ProductDetail/com.handytoolsapps.faceagephotoeditor",
+	"appIcon": "https://images2.imgbox.com/cb/7a/69CzcQBk_o.png"
+},
+
+{
+	"appName": "Flashlight & Compass",
+	"appDescription": "All in one Flashlight & Compass app",
+	"url": "samsungapps://ProductDetail/com.handytoolsapps.smartflashlightcompass",
+	"appIcon": "https://images2.imgbox.com/ee/b4/fdXI9Ez7_o.png"
+},
+
+{
+	"appName": "Units Converter Pro",
+	"appDescription": "Universal unit converter app",
+	"url": "samsungapps://ProductDetail/com.handytoolsapps.onlineconverter.unitsconverter",
+	"appIcon": "https://images2.imgbox.com/43/1d/PmTu4ANZ_o.png"
+},
+
+{
+	"appName": "Smart Apk Extractor",
+	"appDescription": "Extract apk file from app in one click!",
+	"url": "samsungapps://ProductDetail/net.handytoolsapps.apkextractorapp",
+	"appIcon": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png"
+},
+
+{
+	"appName": "Abs Workout",
+	"appDescription": "Get shredded abs with this free app Now",
+	"url": "samsungapps://ProductDetail/com.handytoolsapps.absworkoutbodybuilding",
+	"appIcon": "https://images2.imgbox.com/e4/05/ydL24Hex_o.png"
+},
+
+{
+
+    "appName": "Torrent Pro",
+	"appDescription": "Free powerful torrent client app",
+	"url": "samsungapps://ProductDetail/net.handytoolsapps.torrent",
+	"appIcon": "https://images2.imgbox.com/fa/dc/cJXvp9Gi_o.png"
+},
+
+{
+	"appName": "SMS Scheduler",
+	"appDescription": "Easy to use SMS Scheduler app",
+	"url": "samsungapps://ProductDetail/com.handytoolsapps.smsappschedulermessenger",
+	"appIcon": "https://images2.imgbox.com/f7/ec/qbI43E1U_o.png"
+}
+
+]
