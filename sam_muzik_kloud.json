@@ -1,6 +1,13 @@
 [
 
 {
+	"appName": "Duplicate Contacts Remover",
+	"appDescription": "Remove duplicate contacts in one click!",
+	"url": "samsungapps://ProductDetail/com.handytoolsapps.duplicatecontactsremover",
+	"appIcon": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png"
+},
+
+{
 	"appName": "Sketch It : Pencil Sketch",
 	"appDescription": "Convert your photos to amazing pencil sketches Now",
 	"url": "samsungapps://ProductDetail/com.handytoolsapps.pencilSketch.photoToPencilSketch",
@@ -15,10 +22,10 @@
 },
 
 {
-	"name": "Flashlight & Compass",
-	"rating": "All in one Flashlight & Compass app",
-	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.smartflashlightcompass",
-	"image": "https://images2.imgbox.com/ee/b4/fdXI9Ez7_o.png"
+	"appName": "Flashlight & Compass",
+	"appDescription": "All in one Flashlight & Compass app",
+	"url": "samsungapps://ProductDetail/com.handytoolsapps.smartflashlightcompass",
+	"appIcon": "https://images2.imgbox.com/ee/b4/fdXI9Ez7_o.png"
 },
 
 {
