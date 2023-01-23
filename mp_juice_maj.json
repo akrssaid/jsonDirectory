@@ -2,8 +2,8 @@
     "github": {
       "stable": {
         "apk": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.23.2/NewPipe_v0.23.2.apk",
-          "version": "v1.7",
-        "version_code": 978
+          "version": "v1.0",
+        "version_code": 100
       }
     }
 }
