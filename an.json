@@ -12,6 +12,13 @@
     "appName": "All Document Reader",
     "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107532947"
-  }
+  },
 
+  {
+    "appIcon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png",
+    "appName": "Qr Code Scanner",
+    "appDescription": "Smart Qr code & barcode scanner and generator",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107625693"
+  }
+  
 ]
