@@ -1,5 +1,26 @@
 [
 
+ {
+    "appIcon": "https://images2.imgbox.com/1f/36/h26tRHWj_o.png",
+    "appName": "Mp3 Juice",
+    "appDescription": "Video & Mp3 downloader app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107584851"
+  },
+	
+   {
+    "appIcon": "https://images2.imgbox.com/7c/04/OVMrhvQI_o.png",
+    "appName": "Manga Reader",
+    "appDescription": "Get all your favorite manga for free",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107632739"
+  },
+  
+  {
+    "appIcon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png",
+    "appName": "Duplicate Files Remover",
+    "appDescription": "Clean your phone from duplicate files in one click!",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107685779"
+  },
+
 {
     "appIcon": "https://images2.imgbox.com/8a/3e/Zqzersp3_o.png",
     "appName": "Chat Locker For WhatsApp",
@@ -12,13 +33,6 @@
     "appName": "All Document Reader",
     "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107532947"
-  },
-
-  {
-    "appIcon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png",
-    "appName": "Qr Code Scanner",
-    "appDescription": "Smart Qr code & barcode scanner and generator",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107625693"
   }
-  
+
 ]
