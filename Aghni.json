@@ -1,38 +1,58 @@
 [
 
- {
+  {
     "appIcon": "https://images2.imgbox.com/1f/36/h26tRHWj_o.png",
     "appName": "Mp3 Juice",
-    "appDescription": "Video & Mp3 downloader app",
+    "appDescription": "تطبيق تحميل الفيديو من اليوتيوب",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107584851"
   },
+  
+    {
+    "appIcon": "https://images2.imgbox.com/7c/4a/twAr6UdD_o.png",
+    "appName": "FM راديو",
+    "appDescription": "تطبيق الاستماع و التسجيل من الراديو",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107689345"
+  },
 	
-   {
-    "appIcon": "https://images2.imgbox.com/7c/04/OVMrhvQI_o.png",
-    "appName": "Manga Reader",
-    "appDescription": "Get all your favorite manga for free",
+  {
+    "appIcon": "https://images2.imgbox.com/2e/f5/Y3wc0F85_o.png",
+    "appName": "4K خلفيات السيارات",
+    "appDescription": "خلفيات مميزة لأروع السيارات",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108121111"
+  },
+  
+  {  
+   "appIcon": "https://images2.imgbox.com/7c/04/OVMrhvQI_o.png",
+    "appName": "مانغا",
+    "appDescription": "تطبيق تحميل و قراءة أشهر اصدارات المانغا",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107632739"
+  },
+  {
+    "appIcon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png",
+    "appName": "تطبيق حذف الملفات المكررة",
+    "appDescription": "تنظيف فعال لإزالة الملفات المكررة من هاتفك",
+     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107685779"
   },
   
   {
     "appIcon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png",
-    "appName": "Duplicate Files Remover",
-    "appDescription": "Clean your phone from duplicate files in one click!",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107685779"
+    "appName": "تطبيق قفل محادثات الواتساب",
+    "appDescription": "حماية فعالة لمحادثات الواتساب الشخصية",
+     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107516467"
   },
-
-{
-    "appIcon": "https://images2.imgbox.com/8a/3e/Zqzersp3_o.png",
-    "appName": "Chat Locker For WhatsApp",
-    "appDescription": "Lock your WhatsApp Chats with one click",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107516467"
-  },
-	
-  {
+  
+   {
     "appIcon": "https://images2.imgbox.com/c2/8b/edgSZNXB_o.png",
-    "appName": "All Document Reader",
-    "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
+    "appName": "تطبيق قراءة المستندات",
+    "appDescription": "PDF, WORD, EXCEL, RAR & zip قارئ جميع الملفات",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107532947"
+  },
+  
+  {
+    "appIcon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png",
+    "appName": "QR قارئ",
+    "appDescription": "و الباركود QR تطبيق قراءة",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107625693"
   }
-
+  
 ]
