@@ -15,10 +15,10 @@
 },
 
 {
-	"name": "Flashlight & Compass",
-	"rating": "All in one Flashlight & Compass app",
-	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.smartflashlightcompass",
-	"image": "https://images2.imgbox.com/ee/b4/fdXI9Ez7_o.png"
+	"appName": "Flashlight & Compass",
+	"appDescription": "All in one Flashlight & Compass app",
+	"url": "samsungapps://ProductDetail/com.handytoolsapps.smartflashlightcompass",
+	"appIcon": "https://images2.imgbox.com/ee/b4/fdXI9Ez7_o.png"
 },
 
 {
