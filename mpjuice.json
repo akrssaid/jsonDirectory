@@ -28,11 +28,18 @@
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107689345"
   },
 	
-		  {
+ {
     "appIcon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png",
     "appName": "Qr Code Scanner",
     "appDescription": "Simple & easy QR reader and generator app",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107625693"
+  },
+
+ {
+    "appIcon": "https://images2.imgbox.com/9d/9f/k6V4Otjb_o.png",
+    "appName": "Old Face Maker",
+    "appDescription": "Cool face aging photo editor app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108760233"
   },
   
   {
