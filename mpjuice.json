@@ -15,13 +15,20 @@
   },
 	
    {
+    "appIcon": "https://images2.imgbox.com/5e/5e/7Bs7cwVB_o.png",
+    "appName": "Anime Slayer",
+    "appDescription": "Free Anime streaming & downloading app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108841145"
+  },
+
+  {
     "appIcon": "https://images2.imgbox.com/7c/04/OVMrhvQI_o.png",
     "appName": "Manga Reader",
     "appDescription": "Get all your favorite manga for free",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107632739"
   },
 	
-	  {
+ {
     "appIcon": "https://images2.imgbox.com/7c/4a/twAr6UdD_o.png",
     "appName": "Radio FM Planet",
     "appDescription": "Free universal radio player & recorder app",
