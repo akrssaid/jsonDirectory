@@ -14,6 +14,13 @@
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108621493"
   },
   
+   {
+    "appIcon": "https://images2.imgbox.com/a6/e6/Pslyv2lK_o.png",
+    "appName": "IPTV",
+    "appDescription": "تطبيق مشاهدة افلام, مسلسلات وعروض مجانا",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108643181"
+  },
+  
     {
     "appIcon": "https://images2.imgbox.com/7c/4a/twAr6UdD_o.png",
     "appName": "FM راديو",
@@ -34,11 +41,26 @@
     "appDescription": "تطبيق تحميل و قراءة أشهر اصدارات المانغا",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107632739"
   },
+  
+  {  
+   "appIcon": "https://images2.imgbox.com/5e/5e/7Bs7cwVB_o.png",
+    "appName": "أنمي سلاير",
+    "appDescription": "تطبيق تحميل و مشاهدة آخر أفلام و مسلسلات الآنمي",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108841145"
+  },
+  
   {
     "appIcon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png",
     "appName": "تطبيق حذف الملفات المكررة",
     "appDescription": "تنظيف فعال لإزالة الملفات المكررة من هاتفك",
      "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107685779"
+  },
+  
+   {  
+   "appIcon": "https://images2.imgbox.com/05/ca/FOCPs1ja_o.png",
+    "appName": "مسجل الصوت",
+    "appDescription": "تطبيق تسجيل الاصوات",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108892663"
   },
   
   {
