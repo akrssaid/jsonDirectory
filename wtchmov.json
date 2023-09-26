@@ -1,65 +1,108 @@
 [
 
  {
-    "appIcon": "https://www.dropbox.com/s/myw0upk4va2f2w3/popcorn_time.png?dl=1",
-    "appName": "Popcorn Time",
-    "appDescription": "تطبيق مشاهدة و تحميل الافلام و المسلسلات العالمية مجانا",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C102587339?locale=en_GB&source=appshare&subsource=C102587339"
+    "appIcon": "https://images2.imgbox.com/1f/36/h26tRHWj_o.png",
+    "appName": "Mp3 Juice",
+    "appDescription": "Video & Mp3 downloader app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107584851"
+  },
+
+  {
+    "appIcon": "https://images2.imgbox.com/ff/5d/c907AZQ3_o.png",
+    "appName": "WhatsApp Status Saver & Cleaner",
+    "appDescription": "Status Saver & Cleaner for WhatsApp and WhatsApp Business",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108621493"
+  },
+
+	{
+    "appIcon": "https://images2.imgbox.com/fa/dc/cJXvp9Gi_o.png",
+    "appName": "Torrent Master",
+    "appDescription": "Fast & free torrent downloader",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C109233369"
+  },
+
+{
+    "appIcon": "https://images2.imgbox.com/05/ca/FOCPs1ja_o.png",
+    "appName": "Voice Recorder",
+    "appDescription": "Free & easy audio recorder app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108892663"
+  },
+
+ {
+    "appIcon": "https://images2.imgbox.com/a6/e6/Pslyv2lK_o.png",
+    "appName": "IPTV",
+    "appDescription": "Smart Online Tv player for phoenes and tablets",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108643181"
+  },
+	
+   {
+    "appIcon": "https://images2.imgbox.com/5e/5e/7Bs7cwVB_o.png",
+    "appName": "Anime Slayer",
+    "appDescription": "Free Anime streaming & downloading app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108841145"
+  },
+
+  {
+    "appIcon": "https://images2.imgbox.com/7c/04/OVMrhvQI_o.png",
+    "appName": "Manga Reader",
+    "appDescription": "Get all your favorite manga for free",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107632739"
+  },
+	
+ {
+    "appIcon": "https://images2.imgbox.com/7c/4a/twAr6UdD_o.png",
+    "appName": "Radio FM Planet",
+    "appDescription": "Free universal radio player & recorder app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107689345"
+  },
+	
+ {
+    "appIcon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png",
+    "appName": "Qr Code Scanner",
+    "appDescription": "Simple & easy QR reader and generator app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107625693"
+  },
+
+	 {
+    "appIcon": "https://images2.imgbox.com/4e/6c/MwY7fSg1_o.png",
+    "appName": "Pencil Sketch",
+    "appDescription": "Photo to pencil sketch photo editor app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108732275"
+  },
+
+ {
+    "appIcon": "https://images2.imgbox.com/9d/9f/k6V4Otjb_o.png",
+    "appName": "Old Face Maker",
+    "appDescription": "Cool face aging photo editor app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108760233"
   },
   
   {
-    "appIcon": "https://www.dropbox.com/s/qjaiutyve34rkt5/newIcon.png?dl=1",
-    "appName": "تطبيق تحميل و تحديث الواتساب",
-    "appDescription": "تحميل و تحديث الواتساب",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101529045?locale=en_GB&source=appshare&subsource=C101529045"
+    "appIcon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png",
+    "appName": "Duplicate Files Remover",
+    "appDescription": "Clean your phone from duplicate files in one click!",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107685779"
   },
 
-  {
-    "appIcon": "https://www.dropbox.com/s/9f0aennilriugm9/icon.png?dl=1",
-    "appName": "تطبيق تنصيب لعبة بابجي",
-    "appDescription": "تمتع بلعبة PUBG",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101757193?locale=en_GB&source=appshare&subsource=C101757193"
+	 {
+    "appIcon": "https://images2.imgbox.com/2e/f5/Y3wc0F85_o.png",
+    "appName": "Cars Wallpapers 4K",
+    "appDescription": "Amazing 4K cars wallpapers app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108121111"
   },
 
-  {
-    "appIcon": "https://www.dropbox.com/s/8zwgj4l70vtft4i/collage_app.png?dl=1",
-    "appName": "تطبيق التعديل على الصور",
-    "appDescription": "فلترات و مؤثرات مميزة",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101607759?locale=en_GB&source=appshare&subsource=C101607759"
+{
+    "appIcon": "https://images2.imgbox.com/8a/3e/Zqzersp3_o.png",
+    "appName": "Chat Locker For WhatsApp",
+    "appDescription": "Lock your WhatsApp Chats with one click",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107516467"
   },
-
+	
   {
-    "appIcon": "https://www.dropbox.com/s/r4q9lgj44xcmheu/call-recorder-pro.png?dl=1",
-    "appName": "تطبيق تسجيل المكالمات",
-    "appDescription": "تسجيل المكالمات الواردة و الصادرة أوتوماتيكيا",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C102250619?locale=en_GB&source=appshare&subsource=C102250619"
-  },
-  
-    {
-    "appIcon": "https://www.dropbox.com/s/e4n8um7k3rzgx23/flash-compass.png?dl=1",
-    "appName": "تطبيق فلاش و بوصلة",
-    "appDescription": "تطبيق عملي و ضروري لكل مستعمل هاتف",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C102317871?locale=en_GB&source=appshare&subsource=102317871"
-  },
-  
-  {
-    "appIcon": "https://images2.imgbox.com/d6/8e/g04pVXBj_o.png",
-    "appName": "تحميل الفيديو من الفايسبوك",
-    "appDescription": "أفضل تطبيق مجاني للتحميل من الفايسبوك",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101544659"
-  },
-  {
-    "appIcon": "https://www.dropbox.com/s/8daegf80bysfqfu/duplicate_file_remover.png?dl=1",
-    "appName": "تطبيق حذف الملفات المكررة",
-    "appDescription": "تنظيف فعال لإزالة الملفات المكررة من هاتفك",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C102188107?locale=en_GB&source=appshare&subsource=C102188107"
-  },
-
-  {
-    "appIcon": "https://www.dropbox.com/s/918go7wh6d6tup2/stickers.png?dl=1",
-    "appName": "ستيكرز للواتساب",
-    "appDescription": "إجعل رسائل الواتساب أكثر تميزا مع هذا التطبيق المجاني",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C101552773?locale=en_GB&source=appshare&subsource=C101552773"
+    "appIcon": "https://images2.imgbox.com/c2/8b/edgSZNXB_o.png",
+    "appName": "All Document Reader",
+    "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107532947"
   }
 
 ]
