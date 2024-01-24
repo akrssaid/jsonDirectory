@@ -1,5 +1,13 @@
 [
 
+	{
+    "name": "Sudoku",
+	"rating": 5,
+	"package_name": "samsungapps://ProductDetail/com.epicappsgallery.sudoku.puzzlegame",
+	"image": "https://i.ibb.co/zZZ6G04/sudoku.png"
+},
+
+
 {
 	"name": "Duplicate Contacts Remover",
 	"rating": 5,
