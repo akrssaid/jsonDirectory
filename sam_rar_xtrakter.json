@@ -1,5 +1,13 @@
 [
 
+	{
+    "appName": "Sudoku",
+	"appDescription": "Brain stimulating game for all ages",
+	"url": "samsungapps://ProductDetail/com.epicappsgallery.sudoku.puzzlegame",
+	"appIcon": "https://i.ibb.co/zZZ6G04/sudoku.png"
+},
+
+
 {
 	"appName": "Sketch It : Pencil Sketch",
 	"appDescription": "Convert your photos to amazing pencil sketches Now",
