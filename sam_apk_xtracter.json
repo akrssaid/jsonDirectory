@@ -1,6 +1,14 @@
 [
 
 {
+        "Name": "Sudoku",
+	"Description": "Brain stimulating game for all ages",
+	"Link": "samsungapps://ProductDetail/com.epicappsgallery.sudoku.puzzlegame",
+	"Icon": "https://i.ibb.co/zZZ6G04/sudoku.png"
+},
+
+
+{
 	"name": "Duplicate Contacts Remover",
 	"rating": "Remove duplicate contacts in one click!",
 	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.duplicatecontactsremover",
