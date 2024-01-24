@@ -1,10 +1,10 @@
 [
 
 {
-        "Name": "Sudoku",
-	"Description": "Brain stimulating game for all ages",
-	"Link": "samsungapps://ProductDetail/com.epicappsgallery.sudoku.puzzlegame",
-	"Icon": "https://i.ibb.co/zZZ6G04/sudoku.png"
+        "name": "Sudoku",
+	"rating": "Brain stimulating game for all ages",
+	"package_name": "samsungapps://ProductDetail/com.epicappsgallery.sudoku.puzzlegame",
+	"image": "https://i.ibb.co/zZZ6G04/sudoku.png"
 },
 
 
