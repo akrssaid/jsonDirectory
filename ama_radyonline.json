@@ -1,0 +1,60 @@
+[
+
+
+{
+	"appName": "Flashlight & Compass",
+	"appDescription":"All in one Flashlight & Compass app",
+	"url": "amzn://apps/android?p=com.handytoolsapps.smartflashlightcompass",
+	"appIcon": "https://images2.imgbox.com/ee/b4/fdXI9Ez7_o.png"
+},
+
+{
+	"appName": "Sketch It : Pencil Sketch",
+	"appDescription": "Convert your photos to amazing pencil sketches Now",
+	"url": "amzn://apps/android?p=com.handytoolsapps.pencilSketch.photoToPencilSketch",
+	"appIcon": "https://images2.imgbox.com/4e/6c/MwY7fSg1_o.png"
+},
+
+{
+	"appName": "Make Me Old",
+	"appDescription": "See how you will look like when you get old!",
+	"url": "amzn://apps/android?p=com.handytoolsapps.faceagephotoeditor",
+	"appIcon": "https://images2.imgbox.com/9d/9f/k6V4Otjb_o.png"
+},
+
+{
+	"appName": "File Manager Pro",
+	"appDescription":"Small, Fast and Efficient File Explorer",
+	"url": "amzn://apps/android?p=com.handytoolsapps.filemanagerpro",
+	"appIcon": "https://images2.imgbox.com/d1/75/7mgrB5QL_o.png"
+},
+
+{
+	"appName": "Duplicate File Remover",
+	"appDescription": "Powerful & free tool to clean up your phone from duplicate files",
+	"url": "amzn://apps/android?p=com.handytoolsapps.duplicatefileremover",
+	"appIcon": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png"
+},
+
+{
+	"appName": "Deleted Photo Recovery",
+	"appDescription": "Fast deleted photos, videos and audio files recovery app",
+	"url": "amzn://apps/android?p=com.handytoolsapps.deletedimagesrecoveryapp",
+	"appIcon": "https://images2.imgbox.com/99/2d/2utgnH9F_o.png"
+},
+
+{
+	"appName": "Background Eraser",
+	"appDescription": "Amazing image background eraser photo editor",
+	"url": "amzn://apps/android?p=com.handytoolsapps.backgrounderaser",
+	"appIcon": "https://images2.imgbox.com/93/c4/TBttjJYq_o.png"
+},
+
+{
+	"appName": "Smart Apk Extractor",
+	"appDescription": "Extract apk file from app in one click!",
+	"url": "amzn://apps/android?p=net.handytoolsapps.apkextractorapp",
+	"appIcon": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png"
+}
+
+]
