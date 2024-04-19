@@ -6,7 +6,14 @@
     "appDescription": "Download your favorite videos from Youtube",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C103696013"
   },
-  
+
+	{
+    "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
+    "appName": "File Manager Pro",
+    "appDescription": "Smart file manager & explorer",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110772983"
+  },
+	
   {
     "appIcon": "https://images2.imgbox.com/f0/e5/v4J673HN_o.png",
     "appName": "Watch Movies Free",
