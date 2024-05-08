@@ -7,13 +7,6 @@
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110772983"
   },
 
- {
-    "appIcon": "https://i.ibb.co/ct96jWR/smstimer.png",
-    "appName": "Sms Scheduler Lite",
-    "appDescription": "Send your sms whenever you want!",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110186735"
-  },
-
 {
     "appIcon": "https://images2.imgbox.com/ff/5d/c907AZQ3_o.png",
     "appName": "WhatsApp Status Saver & Cleaner",
@@ -26,6 +19,13 @@
     "appName": "Pdf Office Pro",
     "appDescription": "Pdf Converter & Editor",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C109750247"
+  },
+
+	  {
+    "appIcon": "https://i.ibb.co/WsSKWKy/dupkontacktremover.png",
+    "appName": "Duplicate Contacts Remover",
+    "appDescription": "Backup, restore & remove duplicate contacts",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110870577"
   },
 
  {
