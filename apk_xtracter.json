@@ -21,6 +21,13 @@
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110186445"
   },
 
+	  {
+    "appIcon": "https://i.ibb.co/WsSKWKy/dupkontacktremover.png",
+    "appName": "Duplicate Contacts Remover",
+    "appDescription": "Backup, restore & remove duplicate contacts",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110870577"
+  },
+
  {
     "appIcon": "https://i.ibb.co/ct96jWR/smstimer.png",
     "appName": "Sms Scheduler Lite",
