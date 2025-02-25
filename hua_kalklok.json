@@ -1,10 +1,18 @@
  [
-	{
-    "appIcon": "https://images2.imgbox.com/1f/36/h26tRHWj_o.png",
-    "appName": "Mp3 Juice",
-    "appDescription": "Video & Mp3 downloader app",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107584851"
+	
+	 {
+    "appIcon": "https://i.ibb.co/M5CVjrPh/zipextractor.png",
+    "appName": "Zip Extractor",
+    "appDescription": "Zip/Rar files fast extractor",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C113547605"
   },
+
+{
+  "appName": "Background Video Recorder",
+  "appDescription": "Useful background video recorder app",
+  "url": "https://appgallery.cloud.huawei.com/marketshare/app/113436171",
+  "appIcon": "https://i.ibb.co/gsK8VPt/bvr.png"
+},
 
 	 {
     "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
