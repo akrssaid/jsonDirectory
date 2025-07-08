@@ -1,89 +1,67 @@
 [
 
 	{
-    "name": "Sudoku",
+    "name": "Mp3 Juice",
 	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.epicappsgallery.sudoku.puzzlegame",
-	"image": "https://i.ibb.co/zZZ6G04/sudoku.png"
+	"package_name": "samsungapps://ProductDetail/com.epicroyaleapps.mp3juicemusicstreaming",
+	"image": "https://i.ibb.co/ynWwhLB9/mp3Juice.png"
 },
 
 
 {
-	"name": "Duplicate Contacts Remover",
+	"name": "IPTV",
 	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.duplicatecontactsremover",
-	"image": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png"
+	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.onlinetvstreaming",
+	"image": "https://images2.imgbox.com/a6/e6/Pslyv2lK_o.png"
 },
 
 {
-	"name": "Sketch It : Pencil Sketch",
+	"name": "WhatsApp Deleted Messages Recocery",
 	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.pencilSketch.photoToPencilSketch",
-	"image": "https://images2.imgbox.com/c1/9a/QOSPR6Rb_o.png"
+	"package_name": "samsungapps://ProductDetail/com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery",
+	"image": "https://i.ibb.co/20r42332/whatsdelete.png"
 },
 
 {
-	"name": "Face Old App : Make Me Old",
+	"name": "Torrent Downloader",
 	"rating": 4.5,
-	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.faceagephotoeditor",
-	"image": "https://images2.imgbox.com/cb/7a/69CzcQBk_o.png"
+	"package_name": "samsungapps://ProductDetail/com.epicroyaleappsgallery.torrentdownloaderapp",
+	"image": "https://i.ibb.co/qYxhz4Zf/torrentdownloader.png"
 },
 
 {
-	"name": "Flashlight & Compass",
+	"name": "Data Recovery Pro",
 	"rating": 4.8,
-	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.smartflashlightcompass",
-	"image": "https://images2.imgbox.com/ee/b4/fdXI9Ez7_o.png"
+	"package_name": "samsungapps://ProductDetail/com.epicroyaleapps.deleted.data.recovery",
+	"image": "https://i.ibb.co/TM2kFVFy/datarecoverypro.png"
 },
 
 {
-	"name": "Units Converter Pro",
+	"name": "Lyrics Finder",
 	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.onlineconverter.unitsconverter",
-	"image": "https://images2.imgbox.com/43/1d/PmTu4ANZ_o.png"
+	"package_name": "samsungapps://ProductDetail/com.epicroyaleappslab.lyricsfinderpro",
+	"image": "https://i.ibb.co/Pv2JZ8by/lyricspro.png"
 },
 
 {
-	"name": "Whats Cleaner Pro",
+	"name": "Background Video Recorder",
 	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.handyToolsApps.whatsapp.cleaner",
-	"image": "https://images2.imgbox.com/e0/c0/m6SXKJhn_o.png"
+	"package_name": "samsungapps://ProductDetail/com.epicroyaleappsgallery.backgroundvideorecorder",
+	"image": "https://i.ibb.co/gsK8VPt/bvr.png"
 },
 
 {
-	"name": "Smart Apk Extractor",
+	"name": "Voice Recorder Pro",
 	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/net.handytoolsapps.apkextractorapp",
-	"image": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png"
+	"package_name": "samsungapps://ProductDetail/com.epicroyaleappsgallery.voicerecorder",
+	"image": "https://i.ibb.co/1tR9xf93/voicerecorderpro.png"
 },
 
 {
-	"name": "Whats Tools Pro",
+	"name": "Radio FM Pro",
 	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.handyToolsApps.whatsappTools",
-	"image": "https://images2.imgbox.com/3e/33/BZ4H7h59_o.png"
-},
-
-{
-	"name": "Abs Workout",
-	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.absworkoutbodybuilding",
-	"image": "https://images2.imgbox.com/e4/05/ydL24Hex_o.png"
-},
-
-{
-
-    "name": "Torrent Pro",
-	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/net.handytoolsapps.torrent",
-	"image": "https://images2.imgbox.com/fa/dc/cJXvp9Gi_o.png"
-},
-
-{
-	"name": "SMS Scheduler",
-	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.smsappschedulermessenger",
-	"image": "https://images2.imgbox.com/f7/ec/qbI43E1U_o.png"
+	"package_name": "samsungapps://ProductDetail/com.epicroyaleappsgallery.onlineradioapp",
+	"image": "https://i.ibb.co/WWL1YR5R/radiopro.png"
 }
 
 ]
