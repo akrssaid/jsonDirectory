@@ -1,81 +1,129 @@
 [
 
 {
-	"appName": "Duplicate Contacts Remover",
-	"appDescription": "Remove duplicate contacts in one click!",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.duplicatecontactsremover",
-	"appIcon": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png"
+  "appName": "Mp3 Juice",
+  "appDescription": "Free non stop music",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleapps.mp3juicemusicstreaming",
+  "appIcon": "https://i.ibb.co/ynWwhLB9/mp3Juice.png"
+},
+
+    {
+  "appName": "Deleted Messages Recocery",
+  "appDescription": "Read deleted WhatsApp Messages",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery",
+  "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png"
+},
+
+     {
+  "appName": "Qr & Barocde Reader Pro",
+  "appDescription": "Fast Qr/Barcode Scanner & Generator",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.qrbarcodescannerapp",
+  "appIcon": "https://i.ibb.co/PGzVPNND/qrbarcodereader.png"
+},
+
+     {
+  "appName": "Calculator Vault",
+  "appDescription": "Hide your private files wit one click!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.hidemedia.calculatorvault",
+  "appIcon": "https://i.ibb.co/VWkM5x9M/kalkvolt.png"
+},
+
+     {
+  "appName": "Web To Pdf",
+  "appDescription": "Convert Web pages to pdf file",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.webtopdfconverter",
+  "appIcon": "https://i.ibb.co/ZRGq49Tb/web2pdf.png"
 },
 
 {
-	"appName": "Sketch It : Pencil Sketch",
-	"appDescription": "Convert your photos to amazing pencil sketches Now",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.pencilSketch.photoToPencilSketch",
-	"appIcon": "https://images2.imgbox.com/c1/9a/QOSPR6Rb_o.png"
+  "appName": "Sudoku",
+  "appDescription": "Brain stimulating game for all ages",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.sudoku.puzzlegame",
+  "appIcon": "https://i.ibb.co/zZZ6G04/sudoku.png"
 },
 
 {
-	"appName": "Face Old App : Make Me Old",
-	"appDescription": "See how you will look like when you get old!",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.faceagephotoeditor",
-	"appIcon": "https://images2.imgbox.com/cb/7a/69CzcQBk_o.png"
+  "appName": "Solitaire 4-IN-1",
+  "appDescription": "4 entertaining solitaire game in 1",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.selektsoftgames.solitairegame.cardsgame",
+  "appIcon": "https://i.ibb.co/JRNxnpTM/amazon.png"
 },
 
 {
-	"appName": "Flashlight & Compass",
-	"appDescription":"All in one Flashlight & Compass app",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.smartflashlightcompass",
-	"appIcon": "https://images2.imgbox.com/ee/b4/fdXI9Ez7_o.png"
+  "appName": "Screw Sort",
+  "appDescription": "Trending puzzle game for all ages",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.selektsoftgames.screwsortpuzzle.puzzlegames",
+  "appIcon": "https://i.ibb.co/d45Y9SX/screwsort.png"
 },
 
 {
-	"appName": "Units Converter Pro",
-	"appDescription": "Universal unit converter app",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.onlineconverter.unitsconverter",
-	"appIcon": "https://images2.imgbox.com/43/1d/PmTu4ANZ_o.png"
+  "appName": "Water Sort",
+  "appDescription": "For all puzzle games fans!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyalegames.watersort.puzzlegames",
+  "appIcon": "https://i.ibb.co/3fJvbsR/watersort.png"
 },
 
 {
-	"appName": "Whats Cleaner Pro",
-	"appDescription": "Clean your WhatsApp junk files",
-	"url": "samsungapps://ProductDetail/com.handyToolsApps.whatsapp.cleaner",
-	"appIcon": "https://images2.imgbox.com/e0/c0/m6SXKJhn_o.png"
+  "appName": "Flashlight Pro",
+  "appDescription": "Professional flashlight app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.flashlightpro",
+  "appIcon": "https://i.ibb.co/PzjP3St8/flashlightpro.png"
+},
+
+   {
+  "appName": "Document Scanner",
+  "appDescription": "Documents pdf scanner app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.documentscannerapp",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
+},
+
+  {
+  "appName": "Zip Extractor",
+  "appDescription": "Zip/Rar files fast extractor & compressor",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.zip.unzip.unrar.extractor",
+  "appIcon": "https://i.ibb.co/M5CVjrPh/zipextractor.png"
+},
+
+ {
+  "appName": "Data Recovery Pro",
+  "appDescription": "Recover deleted files with one click!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleapps.deleted.data.recovery",
+  "appIcon": "https://i.ibb.co/TM2kFVFy/datarecoverypro.png"
+},
+
+   {
+  "appName": "Video Player Pro",
+  "appDescription": "All formats HD video player",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleapps.videoplayerpro",
+  "appIcon": "https://i.ibb.co/VWT0JRtY/videoplayerpro.png"
+},
+
+   {
+  "appName": "Lyrics Finder",
+  "appDescription": "Get your favorite songs lyrics now!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.lyricsfinderpro",
+  "appIcon": "https://i.ibb.co/Pv2JZ8by/lyricspro.png"
 },
 
 {
-	"appName": "Smart Apk Extractor",
-	"appDescription": "Extract apk file from app in one click!",
-	"url": "samsungapps://ProductDetail/net.handytoolsapps.apkextractorapp",
-	"appIcon": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png"
+  "appName": "Nfc Reader & Writer",
+  "appDescription": "Smart Nfc tags Manager",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.nfcreader.nfcwriter",
+  "appIcon": "https://i.ibb.co/9HBP9RcH/nfcreader.png"
 },
 
 {
-	"appName": "Whats Tools Pro",
-	"appDescription": "All in one tools for WhatsApp",
-	"url": "samsungapps://ProductDetail/com.handyToolsApps.whatsappTools",
-	"appIcon": "https://images2.imgbox.com/3e/33/BZ4H7h59_o.png"
+  "appName": "PDF Reader Pro",
+  "appDescription": "Powerful pdf files reader app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.pdfreaderpro",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
 },
 
-{
-	"appName": "Abs Workout",
-	"appDescription": "Get shredded abs with this free app Now",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.absworkoutbodybuilding",
-	"appIcon": "https://images2.imgbox.com/e4/05/ydL24Hex_o.png"
-},
-
-{
-
-    "appName": "Torrent Pro",
-	"appDescription": "Free powerful torrent client app",
-	"url": "samsungapps://ProductDetail/net.handytoolsapps.torrent",
-	"appIcon": "https://images2.imgbox.com/fa/dc/cJXvp9Gi_o.png"
-},
-
-{
-	"appName": "SMS Scheduler",
-	"appDescription": "Easy to use SMS Scheduler app",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.smsappschedulermessenger",
-	"appIcon": "https://images2.imgbox.com/f7/ec/qbI43E1U_o.png"
+  {
+  "appName": "Background Video Recorder",
+  "appDescription": "Easy video recorder from background",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.backgroundvideorecorder",
+  "appIcon": "https://i.ibb.co/gsK8VPt/bvr.png"
 }
 
 ]
