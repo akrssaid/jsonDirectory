@@ -7,6 +7,20 @@
     "url": "https://apps.rustore.ru/app/com.epicroyaleapps.mp3juicemusicstreaming"
   },
 
+	   {
+  "appName": "Восстановление удаленных сообщений",
+  "appDescription": "Прочитать удаленные сообщения WhatsApp",
+  "url": "https://apps.rustore.ru/app/com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery",
+  "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png"
+},
+
+ {
+    "appIcon": "https://images2.imgbox.com/a6/e6/Pslyv2lK_o.png",
+    "appName": "IPTV",
+    "appDescription": "Онлайн ТВ плеер для телефонов и планшетов",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.onlinetvstreaming"
+  },
+
  {
     "appIcon": "https://i.ibb.co/km8sf2W/tiktokdown.png",
     "appName": "Скачать видео TikTok",
