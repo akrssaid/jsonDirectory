@@ -1,9 +1,10 @@
 {
     "github": {
       "stable": {
-        "apk": "https://github.com/akrssaid/Releases/raw/main/mp3juice.apk",
-          "version": "v1.4",
-        "version_code": 5
+        "apk": "https://github.com/tcomrepositor/crossupdateapks/releases/download/mp3Juice/mp3juice.apk",
+          "version": "v1.5",
+        "version_code": 6
       }
     }
 }
+
