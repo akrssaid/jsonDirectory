@@ -98,13 +98,6 @@
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.smartflashlightcompass"
   },
   
-    {
-    "appIcon": "https://i.ibb.co/yfxp4BQ/minecraftskins.png",
-    "appName": "Minecraft skins",
-    "appDescription": "Потрясающие скины для игроков Minecraft",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.minecraftanimeskinapp"
-  },
-
    {
     "appIcon": "https://images2.imgbox.com/86/87/3wjwBmTV_o.png",
     "appName": "Radio Online",
@@ -153,4 +146,5 @@
     "appDescription": "Скачивайте любимые видео с легкостью!",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.freetotalvideodownloaderapp"
   }
+
 ]
