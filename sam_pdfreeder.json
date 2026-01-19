@@ -1,81 +1,95 @@
-[
+ [
+
+	  {
+    "appIcon": "https://images2.imgbox.com/1f/36/h26tRHWj_o.png",
+    "appName": "Mp3 Juice",
+    "appDescription": "Free Mp3 music downloader app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107584851"
+  },
+
+	 	 {
+    "appIcon": "https://i.ibb.co/qYWt4hd0/lyrixo.png",
+    "appName": "Lyrixo",
+    "appDescription": "Free Songs Lyrics Finder App",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C116600137"
+  },
+
+	
+	 {
+    "appIcon": "https://i.ibb.co/JFHnyMB7/screenrecorder.png",
+    "appName": "Screen Recorder Pro",
+    "appDescription": "Record, Edit & Share In One Click!",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C116613533"
+  },
+
+	 {
+    "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
+    "appName": "File Manager Pro",
+    "appDescription": "Smart file manager & explorer",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110772983"
+  },
+
+ {
+    "appIcon": "https://i.ibb.co/VpfzKj2/netspeed.png",
+    "appName": "Internet Speed Test",
+    "appDescription": "Best net speed test app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110186445"
+  },
+
+ {
+    "appIcon": "https://i.ibb.co/ct96jWR/smstimer.png",
+    "appName": "Sms Scheduler Lite",
+    "appDescription": "Send your sms whenever you want!",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110186735"
+  },
+
+	 {
+    "appIcon": "https://images2.imgbox.com/ff/5d/c907AZQ3_o.png",
+    "appName": "WhatsApp Status Saver & Cleaner",
+    "appDescription": "Status Saver & Cleaner for WhatsApp and WhatsApp Business",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108621493"
+  },
+	
+   {
+    "appIcon": "https://images2.imgbox.com/7c/04/OVMrhvQI_o.png",
+    "appName": "Manga Reader",
+    "appDescription": "Get all your favorite manga for free",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107632739"
+  },
+	
+	  {
+    "appIcon": "https://images2.imgbox.com/7c/4a/twAr6UdD_o.png",
+    "appName": "Radio FM Planet",
+    "appDescription": "Free universal radio player & recorder app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107689345"
+  },
+	
+		  {
+    "appIcon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png",
+    "appName": "Qr Code Scanner",
+    "appDescription": "Simple & easy QR reader and generator app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107625693"
+  },
+  
+  {
+    "appIcon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png",
+    "appName": "Duplicate Files Remover",
+    "appDescription": "Clean your phone from duplicate files in one click!",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107685779"
+  },
 
 {
-	"appName": "Duplicate Contacts Remover",
-	"appDescription": "Remove duplicate contacts in one click!",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.duplicatecontactsremover",
-	"appIcon": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png"
-},
-
-{
-	"appName": "Sketch It : Pencil Sketch",
-	"appDescription": "Convert your photos to amazing pencil sketches Now",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.pencilSketch.photoToPencilSketch",
-	"appIcon": "https://images2.imgbox.com/c1/9a/QOSPR6Rb_o.png"
-},
-
-{
-	"appName": "Face Old App : Make Me Old",
-	"appDescription": "See how you will look like when you get old!",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.faceagephotoeditor",
-	"appIcon": "https://images2.imgbox.com/cb/7a/69CzcQBk_o.png"
-},
-
-{
-	"appName": "Flashlight & Compass",
-	"appDescription":"All in one Flashlight & Compass app",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.smartflashlightcompass",
-	"appIcon": "https://images2.imgbox.com/ee/b4/fdXI9Ez7_o.png"
-},
-
-{
-	"appName": "Units Converter Pro",
-	"appDescription": "Universal unit converter app",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.onlineconverter.unitsconverter",
-	"appIcon": "https://images2.imgbox.com/43/1d/PmTu4ANZ_o.png"
-},
-
-{
-	"appName": "Whats Cleaner Pro",
-	"appDescription": "Clean your WhatsApp junk files",
-	"url": "samsungapps://ProductDetail/com.handyToolsApps.whatsapp.cleaner",
-	"appIcon": "https://images2.imgbox.com/e0/c0/m6SXKJhn_o.png"
-},
-
-{
-	"appName": "Smart Apk Extractor",
-	"appDescription": "Extract apk file from app in one click!",
-	"url": "samsungapps://ProductDetail/net.handytoolsapps.apkextractorapp",
-	"appIcon": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png"
-},
-
-{
-	"appName": "Whats Tools Pro",
-	"appDescription": "All in one tools for WhatsApp",
-	"url": "samsungapps://ProductDetail/com.handyToolsApps.whatsappTools",
-	"appIcon": "https://images2.imgbox.com/3e/33/BZ4H7h59_o.png"
-},
-
-{
-	"appName": "Abs Workout",
-	"appDescription": "Get shredded abs with this free app Now",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.absworkoutbodybuilding",
-	"appIcon": "https://images2.imgbox.com/e4/05/ydL24Hex_o.png"
-},
-
-{
-
-    "appName": "Torrent Pro",
-	"appDescription": "Free powerful torrent client app",
-	"url": "samsungapps://ProductDetail/net.handytoolsapps.torrent",
-	"appIcon": "https://images2.imgbox.com/fa/dc/cJXvp9Gi_o.png"
-},
-
-{
-	"appName": "SMS Scheduler",
-	"appDescription": "Easy to use SMS Scheduler app",
-	"url": "samsungapps://ProductDetail/com.handytoolsapps.smsappschedulermessenger",
-	"appIcon": "https://images2.imgbox.com/f7/ec/qbI43E1U_o.png"
-}
+    "appIcon": "https://images2.imgbox.com/8a/3e/Zqzersp3_o.png",
+    "appName": "Chat Locker For WhatsApp",
+    "appDescription": "Lock your WhatsApp Chats with one click",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107516467"
+  },
+	
+  {
+    "appIcon": "https://images2.imgbox.com/c2/8b/edgSZNXB_o.png",
+    "appName": "All Document Reader",
+    "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107532947"
+  }
 
 ]
