@@ -1,17 +1,10 @@
 [
 
 {
-	"appName": "Sketch It : Pencil Sketch",
-	"appDescription": "Convert your photos to amazing pencil sketches Now",
-	"url": "amzn://apps/android?p=com.handytoolsapps.pencilSketch.photoToPencilSketch",
-	"appIcon": "https://images2.imgbox.com/c1/9a/QOSPR6Rb_o.png"
-},
-
-{
-	"appName": "Face Old App : Make Me Old",
-	"appDescription": "See how you will look like when you get old!",
-	"url": "amzn://apps/android?p=com.handytoolsapps.faceagephotoeditor",
-	"appIcon": "https://images2.imgbox.com/cb/7a/69CzcQBk_o.png"
+	"appName": "Radio Online",
+	"appDescription": "Listen to worldwide radio stations in one app",
+	"url": "amzn://apps/android?p=com.handytoolsapps.radiogardenonline",
+	"appIcon": "https://images2.imgbox.com/86/87/3wjwBmTV_o.png"
 },
 
 {
@@ -22,10 +15,45 @@
 },
 
 {
-	"appName": "Units Converter Pro",
-	"appDescription": "Universal unit converter app",
-	"url": "amzn://apps/android?p=com.handytoolsapps.onlineconverter.unitsconverter",
-	"appIcon": "https://images2.imgbox.com/43/1d/PmTu4ANZ_o.png"
+	"appName": "Sketch It : Pencil Sketch",
+	"appDescription": "Convert your photos to amazing pencil sketches Now",
+	"url": "amzn://apps/android?p=com.handytoolsapps.pencilSketch.photoToPencilSketch",
+	"appIcon": "https://images2.imgbox.com/4e/6c/MwY7fSg1_o.png"
+},
+
+{
+	"appName": "Make Me Old",
+	"appDescription": "See how you will look like when you get old!",
+	"url": "amzn://apps/android?p=com.handytoolsapps.faceagephotoeditor",
+	"appIcon": "https://images2.imgbox.com/9d/9f/k6V4Otjb_o.png"
+},
+
+{
+	"appName": "File Manager Pro",
+	"appDescription":"Small, Fast and Efficient File Explorer",
+	"url": "amzn://apps/android?p=com.handytoolsapps.filemanagerpro",
+	"appIcon": "https://images2.imgbox.com/d1/75/7mgrB5QL_o.png"
+},
+
+{
+	"appName": "Duplicate File Remover",
+	"appDescription": "Powerful & free tool to clean up your phone from duplicate files",
+	"url": "amzn://apps/android?p=com.handytoolsapps.duplicatefileremover",
+	"appIcon": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png"
+},
+
+{
+	"appName": "Deleted Photo Recovery",
+	"appDescription": "Fast deleted photos, videos and audio files recovery app",
+	"url": "amzn://apps/android?p=com.handytoolsapps.deletedimagesrecoveryapp",
+	"appIcon": "https://images2.imgbox.com/99/2d/2utgnH9F_o.png"
+},
+
+{
+	"appName": "Background Eraser",
+	"appDescription": "Amazing image background eraser photo editor",
+	"url": "amzn://apps/android?p=com.handytoolsapps.backgrounderaser",
+	"appIcon": "https://images2.imgbox.com/93/c4/TBttjJYq_o.png"
 },
 
 {
@@ -33,28 +61,6 @@
 	"appDescription": "Extract apk file from app in one click!",
 	"url": "amzn://apps/android?p=net.handytoolsapps.apkextractorapp",
 	"appIcon": "https://images2.imgbox.com/49/c0/Cv6LkP2C_o.png"
-},
-
-{
-
-    "appName": "Photo Recovery Pro",
-	"appDescription": "Extract apk file from app in one click!",
-	"url": "amzn://apps/android?p=com.handytoolsapps.translaterapp",
-	"appIcon": "https://images2.imgbox.com/dc/68/RtorQBy6_o.png"
-},
-
-{
-	"appName": "SMS Scheduler",
-	"appDescription": "Easy to use SMS Scheduler app",
-	"url": "amzn://apps/android?p=com.handytoolsapps.smsappschedulermessenger",
-	"appIcon": "https://images2.imgbox.com/f7/ec/qbI43E1U_o.png"
-},
-
-{
-	"appName": "Abs Workout",
-	"appDescription": "Get shredded abs with this free app Now",
-	"url": "amzn://apps/android?p=com.handytoolsapps.absworkoutbodybuilding",
-	"appIcon": "https://images2.imgbox.com/e4/05/ydL24Hex_o.png"
 }
 
 ]
