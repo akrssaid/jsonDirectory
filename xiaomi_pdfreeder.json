@@ -1,53 +1,80 @@
 [
 
 {
-    "appName": "Sudoku",
-  "appDescription": "Brain stimulating game for all ages",
-  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.sudoku.puzzlegame",
-  "appIcon": "https://i.ibb.co/zZZ6G04/sudoku.png"
+	"appName": "Video Downloader",
+	"appDescription": "Download videos and music with one click!",
+	"url": "https://global.app.mi.com/details?id=com.farikonsyenapps.watchvideosfreeapp",
+	"appIcon": "https://images2.imgbox.com/a4/cd/utfBTd4a_o.png"
 },
 
 {
-  "appName": "Cars War Merge",
-  "appDescription": "Amzing & fun to play arcade game",
-  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.carmerge.carsgames",
-  "appIcon": "https://i.ibb.co/XLHx9Y4/cars-Merge.png"
+	"appName": "IPTV",
+	"appDescription": "Wtach your favorite shows now with IPTV app",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.onlinetvstreaming",
+	"appIcon": "https://images2.imgbox.com/a6/e6/Pslyv2lK_o.png"
 },
 
 {
-  "appName": "Qr Code Monkey",
-  "appDescription": "Create cool Qr codes Now!",
-  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.qrcodemonkey",
-  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
+	"appName": "Radio Online",
+	"appDescription": "Listen to worldwide radio stations in one app",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.radiogardenonline",
+	"appIcon": "https://images2.imgbox.com/86/87/3wjwBmTV_o.png"
 },
 
 {
-  "appName": "Voice Changer",
-  "appDescription": "Entertaining voice changer App",
-  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.voicechanger.voicerecorder",
-  "appIcon": "https://i.ibb.co/KWtkkkK/voice-changer.png"
-},
-
-  {
-  "appName": "Internet Speed Test",
-  "appDescription": "Test your internet connection in one click!",
-  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.internetspeedtest.speedtest",
-  "appIcon": "https://i.ibb.co/VpfzKj2/netspeed.png"
+	"appName": "All Video Downloader Pro",
+	"appDescription": "All Social Media Video & Status Downloader without watermark!",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.freetotalvideodownloaderapp",
+	"appIcon": "https://images2.imgbox.com/ad/8b/GwlogaIM_o.png"
 },
 
 {
-  "appName": "SMS Scheduler Lite",
-  "appDescription": "Send your SMS whenever you want",
-  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.simplesmsscheduler",
-  "appIcon": "https://i.ibb.co/ct96jWR/smstimer.png"
+	"appName": "Sketch It : Pencil Sketch",
+	"appDescription": "Convert your photos to amazing pencil sketches Now",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.pencilSketch.photoToPencilSketch",
+	"appIcon": "https://images2.imgbox.com/4e/6c/MwY7fSg1_o.png"
 },
 
 {
-  "appName": "QR & Barcode Scanner Pro",
-  "appDescription": "Qr/Barcode scanner & generator",
-  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.qrbarcodescannerapp",
-  "appIcon": "https://i.ibb.co/pQy1FHb/qr-gnerator.png"
+	"appName": "cars Wallpapers 4K",
+	"appDescription": "Download the best cars wallpapers in 4K for FREE",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.freegamingwallpapers",
+	"appIcon": "https://images2.imgbox.com/e9/b9/VyrXt7tl_o.png"
+},
+
+{
+	"appName": "Make Me Old",
+	"appDescription": "See how you will look like when you get old!",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.faceagephotoeditor",
+	"appIcon": "https://images2.imgbox.com/9d/9f/k6V4Otjb_o.png"
+},
+
+{
+	"appName": "File Manager Pro",
+	"appDescription":"Small, Fast and Efficient File Explorer",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.filemanagerpro",
+	"appIcon": "https://images2.imgbox.com/d1/75/7mgrB5QL_o.png"
+},
+
+{
+	"appName": "Duplicate File Remover",
+	"appDescription": "Powerful & free tool to clean up your phone from duplicate files",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.duplicatefileremover",
+	"appIcon": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png"
+},
+
+{
+	"appName": "Deleted Photo Recovery",
+	"appDescription": "Fast deleted photos, videos and audio files recovery app",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.deletedimagesrecoveryapp",
+	"appIcon": "https://images2.imgbox.com/99/2d/2utgnH9F_o.png"
+},
+
+{
+	"appName": "Background Eraser",
+	"appDescription": "Amazing image background eraser photo editor",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.backgrounderaser",
+	"appIcon": "https://images2.imgbox.com/93/c4/TBttjJYq_o.png"
 }
-
 
 ]
