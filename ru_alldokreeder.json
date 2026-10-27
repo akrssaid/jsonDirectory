@@ -34,13 +34,6 @@
 	"url": "https://apps.rustore.ru/app/com.handyToolsApps.whatsapp.cleaner",
 	"appIcon": "https://i.ibb.co/41VX8cm/watkleener.png"
 },
-
-  {
-    "appIcon": "https://images2.imgbox.com/c2/8b/edgSZNXB_o.png",
-    "appName": "All Document Reader",
-    "appDescription": "Считыватель всех документов: PDF, WORD, EXCEL, RAR и zip...",
-    "url": "https://apps.rustore.ru/app/com.epicroyaleapps.alldocumentreaderapp"
-  },
   
    {
     "appIcon": "https://i.ibb.co/WsSKWKy/dupkontacktremover.png",
@@ -71,21 +64,21 @@
   },
 
    {
-    "appIcon": "https://images2.imgbox.com/4e/6c/MwY7fSg1_o.png",
+    "appIcon": "https://i.ibb.co/Rk5rtq8M/pencilsketch.png",
     "appName": "Pencil Sketch",
     "appDescription": "Преобразуйте изображения в карандашные наброски",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.pencilSketch.photoToPencilSketch"
   },
   
    {
-    "appIcon": "https://images2.imgbox.com/93/c4/TBttjJYq_o.png",
+    "appIcon": "https://i.ibb.co/jkK6FjB6/bgeraser.png",
     "appName": "Background eraser",
     "appDescription": "Приложение для быстрого удаления фона",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.backgrounderaser"
   },
   
     {
-    "appIcon": "https://images2.imgbox.com/e9/b9/VyrXt7tl_o.png",
+    "appIcon": "https://i.ibb.co/KzF43KkZ/carswallpapers.png",
     "appName": "Cars Wallpapers 4k",
     "appDescription": "HD обои и фоны с автомобилями",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.freegamingwallpapers"
@@ -106,7 +99,7 @@
   },
 
    {
-    "appIcon": "https://images2.imgbox.com/86/87/3wjwBmTV_o.png",
+    "appIcon": "https://i.ibb.co/hxBCjCMk/radiofm.png",
     "appName": "Radio Online",
     "appDescription": "Универсальное радиоприложение",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.radiogardenonline"
