@@ -1,67 +1,115 @@
 [
 
-	{
-    "name": "Mp3 Juice",
-	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.epicroyaleapps.mp3juicemusicstreaming",
-	"image": "https://i.ibb.co/ynWwhLB9/mp3Juice.png"
+     {
+  "appName": "Mp3 Juice",
+  "appDescription": "Free non stop music",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleapps.mp3juicemusicstreaming",
+  "appIcon": "https://i.ibb.co/ynWwhLB9/mp3Juice.png"
 },
 
-
-{
-	"name": "IPTV",
-	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.handytoolsapps.onlinetvstreaming",
-	"image": "https://images2.imgbox.com/a6/e6/Pslyv2lK_o.png"
+      {
+  "appName": "Qr Code Monkey",
+  "appDescription": "Create cool Qr codes Now!",
+  "url": "https://galaxystore.samsung.com/detail/com.epicappsgallery.qrcodemonkey",
+  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
 },
 
-{
-	"name": "WhatsApp Deleted Messages Recocery",
-	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery",
-	"image": "https://i.ibb.co/20r42332/whatsdelete.png"
-},
+ {
+    "appIcon": "https://images2.imgbox.com/a6/e6/Pslyv2lK_o.png",
+    "appName": "IPTV",
+    "appDescription": "Smart Online Tv player for phoenes and tablets",
+    "url": "https://galaxystore.samsung.com/detail/com.handytoolsapps.onlinetvstreaming"
+  },
 
-{
-	"name": "Torrent Downloader",
-	"rating": 4.5,
-	"package_name": "samsungapps://ProductDetail/com.epicroyaleappsgallery.torrentdownloaderapp",
-	"image": "https://i.ibb.co/qYxhz4Zf/torrentdownloader.png"
-},
-
-{
-	"name": "Data Recovery Pro",
-	"rating": 4.8,
-	"package_name": "samsungapps://ProductDetail/com.epicroyaleapps.deleted.data.recovery",
-	"image": "https://i.ibb.co/TM2kFVFy/datarecoverypro.png"
+    {
+  "appName": "Deleted Messages Recocery",
+  "appDescription": "Read deleted WhatsApp Messages",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery",
+  "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png"
 },
 
 {
-	"name": "Lyrics Finder",
-	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.epicroyaleappslab.lyricsfinderpro",
-	"image": "https://i.ibb.co/Pv2JZ8by/lyricspro.png"
+  "appName": "Solitaire 4-IN-1",
+  "appDescription": "4 entertaining solitaire game in 1",
+  "url": "https://galaxystore.samsung.com/detail/com.selektsoftgames.solitairegame.cardsgame",
+  "appIcon": "https://i.ibb.co/JRNxnpTM/amazon.png"
 },
 
 {
-	"name": "Background Video Recorder",
-	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.epicroyaleappsgallery.backgroundvideorecorder",
-	"image": "https://i.ibb.co/gsK8VPt/bvr.png"
+  "appName": "Screw Sort",
+  "appDescription": "Trending puzzle game for all ages",
+  "url": "https://galaxystore.samsung.com/detail/com.selektsoftgames.screwsortpuzzle.puzzlegames",
+  "appIcon": "https://i.ibb.co/d45Y9SX/screwsort.png"
 },
 
 {
-	"name": "Voice Recorder Pro",
-	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.epicroyaleappsgallery.voicerecorder",
-	"image": "https://i.ibb.co/1tR9xf93/voicerecorderpro.png"
+  "appName": "Water Sort",
+  "appDescription": "For all puzzle games fans!",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyalegames.watersort.puzzlegames",
+  "appIcon": "https://i.ibb.co/3fJvbsR/watersort.png"
 },
 
 {
-	"name": "Radio FM Pro",
-	"rating": 5,
-	"package_name": "samsungapps://ProductDetail/com.epicroyaleappsgallery.onlineradioapp",
-	"image": "https://i.ibb.co/WWL1YR5R/radiopro.png"
+  "appName": "Flashlight Pro",
+  "appDescription": "Professional flashlight app",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleappsgallery.flashlightpro",
+  "appIcon": "https://i.ibb.co/PzjP3St8/flashlightpro.png"
+},
+
+   {
+  "appName": "Document Scanner",
+  "appDescription": "Documents pdf scanner app",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleappslab.documentscannerapp",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
+},
+
+  {
+  "appName": "Zip Extractor",
+  "appDescription": "Zip/Rar files fast extractor & compressor",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleappslab.zip.unzip.unrar.extractor",
+  "appIcon": "https://i.ibb.co/M5CVjrPh/zipextractor.png"
+},
+
+ {
+  "appName": "Data Recovery Pro",
+  "appDescription": "Recover deleted files with one click!",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleapps.deleted.data.recovery",
+  "appIcon": "https://i.ibb.co/TM2kFVFy/datarecoverypro.png"
+},
+
+   {
+  "appName": "Video Player Pro",
+  "appDescription": "All formats HD video player",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleapps.videoplayerpro",
+  "appIcon": "https://i.ibb.co/VWT0JRtY/videoplayerpro.png"
+},
+
+   {
+  "appName": "Lyrics Finder",
+  "appDescription": "Get your favorite songs lyrics now!",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleappslab.lyricsfinderpro",
+  "appIcon": "https://i.ibb.co/Pv2JZ8by/lyricspro.png"
+},
+
+{
+  "appName": "Nfc Reader & Writer",
+  "appDescription": "Smart Nfc tags Manager",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleappsgallery.nfcreader.nfcwriter",
+  "appIcon": "https://i.ibb.co/9HBP9RcH/nfcreader.png"
+},
+
+{
+  "appName": "PDF Reader Pro",
+  "appDescription": "Powerful pdf files reader app",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleappslab.pdfreaderpro",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
+},
+
+  {
+  "appName": "Background Video Recorder",
+  "appDescription": "Easy video recorder from background",
+  "url": "https://galaxystore.samsung.com/detail/com.epicroyaleappsgallery.backgroundvideorecorder",
+  "appIcon": "https://i.ibb.co/gsK8VPt/bvr.png"
 }
 
 ]
