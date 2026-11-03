@@ -1,5 +1,87 @@
 [
 
+
+{
+	"appName": "All Documents Reader",
+	"appDescription": "Read PDF, WORD, XLS and PPT files in one app!",
+	"url": "https://global.app.mi.com/details?id=com.epicroyaleapps.alldocumentreaderapp",
+	"appIcon": "https://i.ibb.co/8Dh7vxWR/alldocumentreader.png"
+},
+
+{
+	"appName": "IPTV",
+	"appDescription": "Wtach your favorite shows now with IPTV app",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.onlinetvstreaming",
+	"appIcon": "https://i.ibb.co/rftBWrXW/iptv-new.png"
+},
+
+{
+	"appName": "Radio Online",
+	"appDescription": "Listen to worldwide radio stations in one app",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.radiogardenonline",
+	"appIcon": "https://i.ibb.co/NgCmx480/radio-online.png"
+},
+
+{
+	"appName": "PUBG GFX Tools",
+	"appDescription": "All-In-One tools for PUBG Gamers",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.gameboosteraccelerator",
+	"appIcon": "https://i.ibb.co/HTmzKVbG/pubgtools.png"
+},
+
+	
+{
+	"appName": "Torrents Pro",
+	"appDescription": "Fast & free torrents downloader app",
+	"url": "https://global.app.mi.com/details?id=net.handytoolsapps.torrent",
+	"appIcon": "https://i.ibb.co/Rp6TJHqz/torrentzpro.png"
+},
+
+{
+	"appName": "Sketch It : Pencil Sketch",
+	"appDescription": "Convert your photos to amazing pencil sketches Now",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.pencilSketch.photoToPencilSketch",
+	"appIcon": "https://i.ibb.co/Rk5rtq8M/pencilsketch.png"
+},
+
+{
+	"appName": "WkatsApp Installer & Updater",
+	"appDescription": "Download the latest WhatsApp Update in one click!",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.whatsdownloadapp",
+	"appIcon": "https://i.ibb.co/67KLzQxD/whatsupdater.png"
+},
+
+{
+	"appName": "Make Me Old",
+	"appDescription": "See how you will look like when you get old!",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.faceagephotoeditor",
+	"appIcon": "https://i.ibb.co/4Rj0nTyn/oldfacemaker.png"
+},
+
+{
+	"appName": "File Manager Pro",
+	"appDescription":"Small, Fast and Efficient File Explorer",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.filemanagerpro",
+	"appIcon": "https://i.ibb.co/JR9xVznm/filemanager.png"
+},
+
+{
+	"appName": "Duplicate File Remover",
+	"appDescription": "Powerful & free tool to clean up your phone from duplicate files",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.duplicatefileremover",
+	"appIcon": "https://i.ibb.co/LzM3v2nd/duplicateremover.png"
+},
+
+{
+	"appName": "Background Eraser",
+	"appDescription": "Amazing image background eraser photo editor",
+	"url": "https://global.app.mi.com/details?id=com.handytoolsapps.backgrounderaser",
+	"appIcon": "https://i.ibb.co/jkK6FjB6/bgeraser.png"
+}
+
+]
+[
+
 {
 	"appName": "Video Downloader",
 	"appDescription": "Download videos and music with one click!",
