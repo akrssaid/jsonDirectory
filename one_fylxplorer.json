@@ -1,10 +1,17 @@
- [
- 
- {
-    "appIcon": "https://i.ibb.co/VpfzKj2/netspeed.png",
-    "appName": "Internet Speed Test",
-    "appDescription": "Best net speed test app",
-    "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000764339"
+[
+  
+  {
+    "appIcon": "https://i.ibb.co/8Dh7vxWR/alldocumentreader.png",
+    "appName": "All Document Reader",
+    "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
+    "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000766868"
+  },
+  
+   {
+    "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
+    "appName": "File Manager Pro",
+    "appDescription": "Smart file manager & explorer",
+    "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000759753"
   },
 
  {
@@ -15,7 +22,7 @@
   },
 
    {
-    "appIcon": "https://images2.imgbox.com/ff/5d/c907AZQ3_o.png",
+    "appIcon": "https://i.ibb.co/B2v8wzZn/whats-saver.png",
     "appName": "WhatsApp Status Saver & Cleaner",
     "appDescription": "Status Saver & Cleaner for WhatsApp and WhatsApp Business",
     "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000755638"
@@ -25,25 +32,25 @@
     "appName": "Duplicate Contacts Remover",
   "appDescription": "Remove duplicate contacts in one click!",
   "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000749912",
-  "appIcon": "https://images2.imgbox.com/73/4d/qDDjI82E_o.png"
+  "appIcon": "https://i.ibb.co/8g0FCT4P/duplicate-contacts.png"
   },
   
     {
-    "appIcon": "https://images2.imgbox.com/7c/4a/twAr6UdD_o.png",
+    "appIcon": "https://i.ibb.co/C3kBqhF5/radiofmplanet.png",
     "appName": "Radio FM Planet",
     "appDescription": "Free universal radio player & recorder app",
     "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000768076"
   },
   
       {
-    "appIcon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png",
+    "appIcon": "https://i.ibb.co/0y0hkP3p/qrcodescanner.png",
     "appName": "Qr Code Scanner",
     "appDescription": "Simple & easy QR reader and generator app",
     "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000755552"
   },
   
   {
-    "appIcon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png",
+    "appIcon": "https://i.ibb.co/LzM3v2nd/duplicateremover.png",
     "appName": "Duplicate Files Remover",
     "appDescription": "Clean your phone from duplicate files in one click!",
     "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000749913"
@@ -52,15 +59,8 @@
 {
     "appName": "Smart Apk Extractor",
   "appDescription": "Extract apk file from app in one click!",
-  "url": "amzn://apps/android?p=net.handytoolsapps.apkextractorapp",
-  "appIcon": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000749908"
-  },
-  
-  {
-    "appIcon": "https://images2.imgbox.com/c2/8b/edgSZNXB_o.png",
-    "appName": "All Document Reader",
-    "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
-    "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000766868"
+  "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000749908",
+  "appIcon": "https://i.ibb.co/v4D806b9/smartapkextractor.png"
   }
 
 ]
