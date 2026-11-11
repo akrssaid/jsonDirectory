@@ -13,7 +13,14 @@
     "appName": "All Document Reader",
     "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
     "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000766868"
-  }
+  },
+  
+   {
+    "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
+    "appName": "File Manager Pro",
+    "appDescription": "Smart file manager & explorer",
+    "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000759753"
+  },
 
  {
     "appIcon": "https://i.ibb.co/ct96jWR/smstimer.png",
